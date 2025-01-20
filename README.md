@@ -3,32 +3,12 @@
 🎓 Graduate Student at Stony Brook University | 🔬 Research Project Assistant | 🎵 Tabla Player | 🏸 Badminton Player
 
 ## About Me
-I'm passionate about building reliable systems, computer vision, and quantum computing. Currently exploring the intersection of AI and centralized, distributed control systems through my research work at Stony Brook University.
+I'm passionate about building reliable systems, computer vision, and quantum computing. Currently exploring the intersection of AI and centralized, distributed control systems through my research work at Stony Brook University. Apart from these interests in the domain of computing, I have been pursuing the Indian classical instrument Tabla and the sport of Badminton, both, professionally! <br><br>
+_If you're curious, find more about me [here](https://pksdmsyi.github.io)!_
 
 ## 🎓 Education
-- **Master of Science in Computer Science** (Expected May 2025)
-  - Stony Brook University, New York
-
-- **Bachelor of Technology in Computer Engineering**
-  - University of Pune, India
-
-## 🚀 Featured Projects
-### Face Mask Detection System
-- Real-time mask detection using ResNet (98% accuracy)
-- Flutter-based web interface with Firebase integration
-- [View Project](project-link-here)
-
-### Airline Reservation System
-- High-performance booking system using B+ trees
-
-## 🎵 Musical Journey
-- Alankar Purna in Tabla (Master's equivalent) from ABGMV, India
-- Actively performing and learning classical Indian music 
-
-## 🏸 Sports Achievements
-- Played National Badminton tournaments in India  
-- Winner, Men's Singles - 2024 RIAAN Open, USA
-- Winner, Men's Singles and Mixed Doubles - 2024 IBC Open International Badminton Tournament, USA
+- **Master of Science in Computer Science** - _Stony Brook University, New York_
+- **Bachelor of Technology in Computer Engineering** - _University of Pune, India_
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://linkedin.com/in/ojas-natu)
